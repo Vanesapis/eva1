@@ -1,0 +1,15 @@
+C:\Users\laboratorio\source\repos\VanesaMoragaEVA1\VanesaMoragaEVA1\obj\Debug\net6.0\VanesaMoragaEVA1.csproj.AssemblyReference.cache
+C:\Users\laboratorio\source\repos\VanesaMoragaEVA1\VanesaMoragaEVA1\obj\Debug\net6.0\VanesaMoragaEVA1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laboratorio\source\repos\VanesaMoragaEVA1\VanesaMoragaEVA1\obj\Debug\net6.0\VanesaMoragaEVA1.AssemblyInfoInputs.cache
+C:\Users\laboratorio\source\repos\VanesaMoragaEVA1\VanesaMoragaEVA1\obj\Debug\net6.0\VanesaMoragaEVA1.AssemblyInfo.cs
+C:\Users\laboratorio\source\repos\VanesaMoragaEVA1\VanesaMoragaEVA1\obj\Debug\net6.0\VanesaMoragaEVA1.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio\source\repos\VanesaMoragaEVA1\VanesaMoragaEVA1\bin\Debug\net6.0\VanesaMoragaEVA1.exe
+C:\Users\laboratorio\source\repos\VanesaMoragaEVA1\VanesaMoragaEVA1\bin\Debug\net6.0\VanesaMoragaEVA1.deps.json
+C:\Users\laboratorio\source\repos\VanesaMoragaEVA1\VanesaMoragaEVA1\bin\Debug\net6.0\VanesaMoragaEVA1.runtimeconfig.json
+C:\Users\laboratorio\source\repos\VanesaMoragaEVA1\VanesaMoragaEVA1\bin\Debug\net6.0\VanesaMoragaEVA1.dll
+C:\Users\laboratorio\source\repos\VanesaMoragaEVA1\VanesaMoragaEVA1\bin\Debug\net6.0\VanesaMoragaEVA1.pdb
+C:\Users\laboratorio\source\repos\VanesaMoragaEVA1\VanesaMoragaEVA1\obj\Debug\net6.0\VanesaMoragaEVA1.dll
+C:\Users\laboratorio\source\repos\VanesaMoragaEVA1\VanesaMoragaEVA1\obj\Debug\net6.0\refint\VanesaMoragaEVA1.dll
+C:\Users\laboratorio\source\repos\VanesaMoragaEVA1\VanesaMoragaEVA1\obj\Debug\net6.0\VanesaMoragaEVA1.pdb
+C:\Users\laboratorio\source\repos\VanesaMoragaEVA1\VanesaMoragaEVA1\obj\Debug\net6.0\VanesaMoragaEVA1.genruntimeconfig.cache
+C:\Users\laboratorio\source\repos\VanesaMoragaEVA1\VanesaMoragaEVA1\obj\Debug\net6.0\ref\VanesaMoragaEVA1.dll
